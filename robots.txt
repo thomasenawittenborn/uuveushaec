@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aetuphesho.mknight.net/sitemap.xml
